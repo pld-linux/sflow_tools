@@ -6,6 +6,7 @@ Release:	1
 License:	custom
 Group:		Applications/Networking
 Source0:	http://www.inmon.com/%{name}-%{version}.tar.gz
+# Source0-md5:	4daa8781430fb3af79d3f1d18c078775
 URL:		http://www.inmon.com/sflowTools.htm
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
