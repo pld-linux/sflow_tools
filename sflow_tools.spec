@@ -3,7 +3,7 @@ Summary(pl):	Pokazuje pakiety przechodz±ce przez interfejsy sieciowe
 Name:		sflow_tools
 Version:	1.3
 Release:	1
-License:	Custom
+License:	custom
 Group:		Applications/Networking
 Source0:	http://www.inmon.com/%{name}-%{version}.tar.gz
 URL:		http://www.inmon.com/sflowTools.htm
