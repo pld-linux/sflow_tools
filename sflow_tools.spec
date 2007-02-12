@@ -1,5 +1,5 @@
 Summary:	command line utilities analyzing sFlow data
-Summary(pl.UTF-8):   Pokazuje pakiety przechodzące przez interfejsy sieciowe
+Summary(pl.UTF-8):	Pokazuje pakiety przechodzące przez interfejsy sieciowe
 Name:		sflow_tools
 Version:	1.3
 Release:	1
