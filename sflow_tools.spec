@@ -1,5 +1,5 @@
 Summary:	command line utilities analyzing sFlow data
-Summary(pl):	Pokazuje pakiety przechodz±ce przez interfejsy sieciowe
+Summary(pl.UTF-8):   Pokazuje pakiety przechodzÄ…ce przez interfejsy sieciowe
 Name:		sflow_tools
 Version:	1.3
 Release:	1
@@ -18,13 +18,13 @@ collectors for IP flow accounting, and provides text based output that
 can be used in scripts to provide customized analysis and reporting
 and for integrating with other tools such as MRTG or rrdtool.
 
-%description -l pl
-G³ównym komponentem zbioru narzêdzi sFlow jest program sflowtool.
-sflowtool jest interfejsem pomiêdzy programami takimi jak tcpdump,
-ntop oraz Snort s³u¿±cym dok³adnemu ¶ledzeniu pakietów oraz analizie,
-narzêdziami kompatybilnymi z NetFlow do zliczania przep³ywu ruchu IP
-oraz dostarcza tekstowe informacje wyj¶ciowe, które mog± byæ u¿ywane w
-skryptach do tworzenia analiz oraz raportów czy integracji z innymi
+%description -l pl.UTF-8
+GÅ‚Ã³wnym komponentem zbioru narzÄ™dzi sFlow jest program sflowtool.
+sflowtool jest interfejsem pomiÄ™dzy programami takimi jak tcpdump,
+ntop oraz Snort sÅ‚uÅ¼Ä…cym dokÅ‚adnemu Å›ledzeniu pakietÃ³w oraz analizie,
+narzÄ™dziami kompatybilnymi z NetFlow do zliczania przepÅ‚ywu ruchu IP
+oraz dostarcza tekstowe informacje wyjÅ›ciowe, ktÃ³re mogÄ… byÄ‡ uÅ¼ywane w
+skryptach do tworzenia analiz oraz raportÃ³w czy integracji z innymi
 programami jak MRTG lub rrdtool.
 
 %prep
